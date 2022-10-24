@@ -21,7 +21,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Captura de tela
 
-![](./images/screenshot.png)
+![Imagem do site](./images/screenshot.png)
 
 ### Links
 
@@ -56,7 +56,7 @@ Para desenvolvimento contínuo pretendo continuar aperfeiçoando meus conhecimen
 
 ### Recursos úteis
 
--(https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container) - Este é um artigo incrível que me ajudou a finalmente para que serve as propriedades justify-content e align-items. Eu recomendo para quem ainda está aprendendo este conceito.
+-[Alinhar objetos](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container) - Este é um artigo incrível que me ajudou a finalmente para que serve as propriedades justify-content e align-items. Eu recomendo para quem ainda está aprendendo este conceito.
 
 ## Autor
 
